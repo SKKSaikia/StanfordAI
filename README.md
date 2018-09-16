@@ -3,6 +3,9 @@ Open Stanford Masters | Computer Science | AI Specialization &amp; Bachelors in 
 
 <img src = "https://github.com/SKKSaikia/StanfordAI/blob/master/images/main/ai_stanford.jpg">
 
+# STANFOR AI [SYLLABUS](http://ai.stanford.edu/courses/)
+
+
 CS229 : [Machine Learning](http://cs229.stanford.edu/) | Or Coursera's [Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 CS231N : [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) - [Lecture](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
@@ -11,7 +14,8 @@ CS224n : [Natural Language Processing with Deep Learning](http://web.stanford.ed
 
 CS228 : [Probabilistic Graphical Models](http://pgm.stanford.edu/) or Coursera's [PGM Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)
 
-# STANFORD Artificial Intelligence Lab
+# [STANFORD Artificial Intelligence Lab](http://ai.stanford.edu/)
+- [Stanford ML group](https://stanfordmlgroup.github.io/)
 
 # [STANFORD Vision and Learning LAB](http://svl.stanford.edu/)
 
