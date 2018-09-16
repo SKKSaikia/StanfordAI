@@ -14,6 +14,8 @@ CS224n : [Natural Language Processing with Deep Learning](http://web.stanford.ed
 
 CS228 : [Probabilistic Graphical Models](http://pgm.stanford.edu/) or Coursera's [PGM Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)
 
+++ lot more exciting courses :) Also [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) by Prof Andrew NG is great :)
+
 # [STANFORD Artificial Intelligence Lab](http://ai.stanford.edu/)
 - [Stanford ML group](https://stanfordmlgroup.github.io/)
 
