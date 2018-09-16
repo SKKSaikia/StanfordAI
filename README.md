@@ -28,5 +28,11 @@ While I was studying the Summer Quarter at Stanford, it was great to be in the l
 
 # Interesting Blogs / Medium articles
 
-- []()
-- []()
+- [colah.github.io - COLAH BLOGS](http://colah.github.io/)
+- [Karpathy.github.io | Andrej Karpathy blogs](http://karpathy.github.io/)
+- [foldl.me](http://www.foldl.me/)
+- [317070.github.io](http://317070.github.io/)
+- [andrew.gibiansky.com](http://andrew.gibiansky.com/archive.html)
+- [WildML.com](http://www.wildml.com/)
+- [\M\ We Need to Go Deeper: A Practical Guide to Tensorflow and Inception](https://medium.com/initialized-capital/we-need-to-go-deeper-a-practical-guide-to-tensorflow-and-inception-50e66281804f)
+- [DeepLearning.net](http://deeplearning.net/blog/)
