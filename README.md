@@ -25,3 +25,8 @@ CS228 : [Probabilistic Graphical Models](http://pgm.stanford.edu/) or Coursera's
 Stanford BS in CS with AI Specialization | MS ; SCPD ; [certificates](https://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1226717) are exciting :)
 
 While I was studying the Summer Quarter at Stanford, it was great to be in the labs | AI and Vision Lab :)
+
+# Interesting Blogs / Medium articles
+
+- []()
+- []()
