@@ -20,6 +20,6 @@ CS228 : [Probabilistic Graphical Models](http://pgm.stanford.edu/) or Coursera's
 
 # [STANFORD Vision and Learning LAB](http://svl.stanford.edu/)
 
-[Stanford Vision Lab](http://vision.stanford.edu/) | 
+[Stanford Vision Lab](http://vision.stanford.edu/) | [NLP group](https://nlp.stanford.edu/)
 
 Stanford BS in CS with AI Specialization | MS ; SCPD ; [certificates](https://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1226717) are exciting :)
