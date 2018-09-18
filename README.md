@@ -26,6 +26,8 @@ Stanford BS in CS with AI Specialization | MS ; SCPD ; [certificates](https://sc
 
 While I was studying the Summer Quarter at Stanford, it was great to be in the labs | AI and Vision Lab :)
 
+# STANFORD & AI 🤖 
+
 # Interesting Blogs / Medium articles
 
 - [colah.github.io - COLAH BLOGS](http://colah.github.io/)
