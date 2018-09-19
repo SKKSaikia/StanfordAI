@@ -28,16 +28,16 @@ Stanford BS in CS with AI Specialization | MS ; SCPD ; [certificates](https://sc
 
 # STANFORD & AI 🤖 | Top Research & Projects
 
-∞
-∞
-∞
-∞
-∞
-∞
-∞
-∞
-∞
-∞
+∞ <br/>
+∞ <br/>
+∞ <br/>
+∞ <br/>
+∞ <br/>
+∞ <br/>
+∞ <br/>
+∞ <br/>
+∞ <br/>
+∞ <br/>
 
 Some other interesting projects include:
 
