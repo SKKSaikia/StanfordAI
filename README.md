@@ -32,7 +32,7 @@ Stanford BS in CS with AI Specialization | MS ; SCPD ; [certificates](https://sc
 ∞ [Publications of AI](http://svl.stanford.edu/publications/)<br/>
 ∞ [Projects of AI](https://forum.stanford.edu/research/areaprofile.php?areaid=1)<br/>
 
-Some other interesting projects include: [Vine like growing robot](https://youtu.be/oRjFFgAZQnk) ; [Cognitive typing](https://youtu.be/9oka8hqsOzg); [Project Gecko](https://youtu.be/Mw-tol5ur84) ; [Worm Robot Mesh](https://youtu.be/W-2mBaxdjrc)
+Some other interesting projects include: [Vine like growing robot](https://youtu.be/oRjFFgAZQnk) ; [Cognitive typing](https://youtu.be/9oka8hqsOzg); [Project Gecko](https://youtu.be/Mw-tol5ur84) ; [Worm Robot Mesh](https://youtu.be/W-2mBaxdjrc) ; [Robot ping-pong](https://youtu.be/LCEdU6nRt7w) ; [JediBot](https://youtu.be/VuSCErmoYpY)
 
 # Interesting Blogs / Medium articles
 
