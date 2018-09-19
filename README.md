@@ -1,16 +1,14 @@
 # Stanford AI ϟ
 
+Stanford is beautiful and majestic; In the heart of Silicon Valley, there lies the mystical and wonderful farm , /University once I called home. I studied a quarter at Stanford [[My Experience]](https://github.com/SKKSaikia/StanfordSS) and STANFORD❤ will forever remain close to my heart.
+
 <img src = "https://github.com/SKKSaikia/StanfordAI/blob/master/images/main/ai_stanford.jpg">
 
 # STANFORD AI [SYLLABUS](http://ai.stanford.edu/courses/)
 
-
-CS229 : [Machine Learning](http://cs229.stanford.edu/) | Or Coursera's [Machine Learning](https://www.coursera.org/learn/machine-learning)
-
-CS231N : [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) - [Lecture](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
-
-CS224n : [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) - [Lecture](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
-
+CS229 : [Machine Learning](http://cs229.stanford.edu/) | Or Coursera's [Machine Learning](https://www.coursera.org/learn/machine-learning)<br/>
+CS231N : [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) - [Lecture](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)<br/>
+CS224n : [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) - [Lecture](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)<br/>
 CS228 : [Probabilistic Graphical Models](http://pgm.stanford.edu/) or Coursera's [PGM Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)
 
 ++ lot more exciting courses :) Also [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) by Prof Andrew NG is great :)
