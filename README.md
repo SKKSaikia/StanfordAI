@@ -6,6 +6,8 @@ Stanford is beautiful and majestic; In the heart of Silicon Valley, there lies t
 
 # STANFORD AI [SYLLABUS](http://ai.stanford.edu/courses/)
 
+<img src="https://github.com/SKKSaikia/StanfordAI/blob/master/images/main/IMG_20180809_190000.jpg"><a> </a><img src="https://github.com/SKKSaikia/StanfordAI/blob/master/images/main/vinlp.jpg">
+
 CS229 : [Machine Learning](http://cs229.stanford.edu/) | Or Coursera's [Machine Learning](https://www.coursera.org/learn/machine-learning)<br/>
 CS231N : [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) - [Lecture](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)<br/>
 CS224n : [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) - [Lecture](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)<br/>
