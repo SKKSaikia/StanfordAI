@@ -1,6 +1,6 @@
 # Stanford AI ϟ
 
-Stanford is beautiful and majestic; In the heart of Silicon Valley, there lies the mystical and wonderful farm , /University once I called home. I studied a quarter at Stanford [[My Experience]](https://github.com/SKKSaikia/StanfordSS) and STANFORD❤ will forever remain close to my heart. Here, in this blog, let's concentrate AI @ Stanford. The home of Stanford Cardinal; The place that gave me so much; is also the home of Computer Vision Group ; NLP group; AI group and many more. The Computer Science building is known as the GATES COMPUTER SCIENCE building and houses every CS research groups. Let's begin with <b><h>#AI</h></b> @ STANFORD.
+Stanford is beautiful and majestic; In the heart of Silicon Valley, there lies the mystical and wonderful farm , /University once I called home. I studied a quarter at Stanford [[My Experience]](https://github.com/SKKSaikia/StanfordSS) and STANFORD❤ will forever remain close to my heart. Here, in this blog, let's concentrate AI @ Stanford. The home of Stanford Cardinal; The place that gave me so much; is also the home of Computer Vision Group ; NLP group; AI group and many more. The [Computer Science](https://cs.stanford.edu/) building is known as the GATES COMPUTER SCIENCE building and houses every CS research groups. Let's begin with <b><h>#AI</h></b> @ STANFORD.
 
 <img src = "https://github.com/SKKSaikia/StanfordAI/blob/master/images/main/ai_stanford.jpg">
 
@@ -28,18 +28,11 @@ Stanford BS in CS with AI Specialization | MS ; SCPD ; [certificates](https://sc
 
 # STANFORD & AI 🤖 | Top Research & Projects
 
-∞ <br/>
-∞ <br/>
-∞ <br/>
-∞ <br/>
-∞ <br/>
-∞ <br/>
-∞ <br/>
-∞ <br/>
-∞ <br/>
-∞ <br/>
+∞ [Datasets for AI : ](http://svl.stanford.edu/resources/)<br/>
+∞ [Publications of AI](http://svl.stanford.edu/publications/)<br/>
+∞ [Projects of AI](https://forum.stanford.edu/research/areaprofile.php?areaid=1)<br/>
 
-Some other interesting projects include:
+Some other interesting projects include: [Vine like growing robot](https://youtu.be/oRjFFgAZQnk) ; [Cognitive typing](https://youtu.be/9oka8hqsOzg); [Project Gecko](https://youtu.be/Mw-tol5ur84) ; [Worm Robot Mesh](https://youtu.be/W-2mBaxdjrc)
 
 # Interesting Blogs / Medium articles
 
