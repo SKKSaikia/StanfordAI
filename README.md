@@ -15,6 +15,8 @@ CS228 : [Probabilistic Graphical Models](http://pgm.stanford.edu/) or Coursera's
 
 ++ lot more exciting courses :) Also [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) by Prof Andrew NG is great :)
 
+# AI RESEARCH GROUPS @ STANFORD
+
 # [STANFORD Artificial Intelligence Lab](http://ai.stanford.edu/)
 - [Stanford ML group](https://stanfordmlgroup.github.io/)
 
