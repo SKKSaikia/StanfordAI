@@ -1,6 +1,6 @@
 # Stanford AI ϟ
 
-Stanford is beautiful and majestic; In the heart of Silicon Valley, there lies the mystical and wonderful farm , /University once I called home. I studied a quarter at Stanford [[My Experience]](https://github.com/SKKSaikia/StanfordSS) and STANFORD❤ will forever remain close to my heart. Here, in this blog, let's concentrate AI @ Stanford. The home of Stanford Cardinal; The place that gave me so much; is also the home of Computer Vision Group ; NLP group; AI group and many more. The Computer Science building is known as the gates computer science building and houses every CS research groups. Let's begin with <b><h>#AI</h></b> @ STANFORD.
+Stanford is beautiful and majestic; In the heart of Silicon Valley, there lies the mystical and wonderful farm , /University once I called home. I studied a quarter at Stanford [[My Experience]](https://github.com/SKKSaikia/StanfordSS) and STANFORD❤ will forever remain close to my heart. Here, in this blog, let's concentrate AI @ Stanford. The home of Stanford Cardinal; The place that gave me so much; is also the home of Computer Vision Group ; NLP group; AI group and many more. The Computer Science building is known as the GATES COMPUTER SCIENCE building and houses every CS research groups. Let's begin with <b><h>#AI</h></b> @ STANFORD.
 
 <img src = "https://github.com/SKKSaikia/StanfordAI/blob/master/images/main/ai_stanford.jpg">
 
