@@ -26,7 +26,7 @@ CS228 : [Probabilistic Graphical Models](http://pgm.stanford.edu/) or Coursera's
 
 Stanford BS in CS with AI Specialization | MS ; SCPD ; [certificates](https://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1226717) are exciting opportunities in STANFORD to learn AI.
 
-# STANFORD & AI 🤖 | Top Research & Projects
+# STANFORD & AI 🤖 | Research & Projects
 
 ∞ [Datasets for AI : ](http://svl.stanford.edu/resources/)<br/>
 ∞ [Publications of AI](http://svl.stanford.edu/publications/)<br/>
